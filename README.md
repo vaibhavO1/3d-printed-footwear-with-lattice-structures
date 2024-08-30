@@ -1,1 +1,3 @@
 # 3d-printed-footwear-with-lattice-structures
+
+This project showcases the incorportion of Gyroid Structures in the design and manufacturing of 3D Printed Footwear. The footwear has its aesthetics based on traditional Japanese Slippers. The base of the footwear has been printed using Vat Photo-polymerization/SLA Printer with e-flex resin. The straps were printed using Material Extrusion/FDM Machine with TPU as the choice of material. The Gyroid Lattice structures provide various benefits including light weighting, high strength to weight ratio, and a comfort similar to memory foam. As part of future work, incorporation of functional grading in the design can make it beneficial for Orthotic use.
