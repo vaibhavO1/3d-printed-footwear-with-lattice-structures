@@ -1,0 +1,3 @@
+The STL file for the base of the slipper with lattice structure is provided in Autodesk Fusion folder.
+The STL for the solid straps is provided in the Solid Works folder.
+The products manufacturing will involve 3D printing of the Base and Straps and then their subsequent assembly.
